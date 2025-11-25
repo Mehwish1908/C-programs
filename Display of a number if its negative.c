@@ -9,7 +9,11 @@ int main()
     {
        printf("You entered %d \n", n);
     }
+    else
+    {
         printf("The if statement is easy.");
+    }
     return 0;
 }
+
 
